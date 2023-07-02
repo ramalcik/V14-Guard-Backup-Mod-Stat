@@ -31,5 +31,5 @@ EN İYİLERİ İLE KARŞINIZDAYIZ PROJELER ÜCRETLİDİR SATIN ALMAK İÇİN DM 
 ![image](https://github.com/purpleorpurple/V14-Guard-Backup-Mod-Stat/assets/125148735/7cc58d2b-4246-4ba7-b961-6ce474fa770d)
 
 MOD YENİ ÇIKAN İSİM SİSTEMİNE UYGUN YAPILDI GÖRÜNEN AD SİSTEMİNE GÖRE YAPILMIŞTIR HERŞEY GÜNCELDİR 
-
+Özel oda ve welcome botunu ss lemeye üşendik onlarda elimizde mevcut ve modda 85 komut bulunmaktadır.
 
